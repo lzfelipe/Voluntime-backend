@@ -54,7 +54,7 @@ A URL base é apenas: [http://localhost:3333/](http://localhost:3333)
 
 | ENDPOINT | Metódo| Params | URL Params | Sucesso | Erro
 |--|--|--|--|--|--|
-| /users| `POST`  |-|id|**Code:** 200 - OK<br />**Content:**<br />` { `<br />[Usuário](https://github.com/lzfelipe/VoluntimeAPI#user) <br /> } |<br />**Code:** 500 - INTERNAL SERVER ERROR<br />**Content:** `{ error:  <Mensagem com a descrição do erro> }`
+| /users| `POST`  |-|id|**Code:** 200 - OK<br />**Content:**<br />` { `<br />[Usuário](https://github.com/lzfelipe/VoluntimeAPI#usuario) <br /> } |<br />**Code:** 500 - INTERNAL SERVER ERROR<br />**Content:** `{ error:  <Mensagem com a descrição do erro> }`
 
 - **Deletar usuário**
 
